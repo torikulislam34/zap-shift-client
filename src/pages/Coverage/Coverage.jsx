@@ -4,8 +4,8 @@ import { useLoaderData } from 'react-router';
 
 const Coverage = () => {
 
-    const sersviceCenters = useLoaderData();
-    console.log(sersviceCenters)
+    const serviceCenters = useLoaderData();
+    console.log(serviceCenters)
     return (
         <div className="max-w-7xl mx-auto px-4 py-12">
             {/* Title */}
