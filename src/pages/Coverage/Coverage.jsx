@@ -23,7 +23,7 @@ const Coverage = () => {
             </div>
 
             {/* Map */}
-            <CoverageMap sersviceCenters={sersviceCenters}/>
+            <CoverageMap sersviceCenters={serviceCenters}/>
         </div>
     );
 };
